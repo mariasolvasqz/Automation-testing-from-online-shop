@@ -1,4 +1,4 @@
-# This is hometask from QA Bootcamp, where I tried to test a few features from online shop https://www.newegg.com/
+# Testing a few features from online shop https://www.newegg.com/
 
 ## How to test
 - Install node.js
